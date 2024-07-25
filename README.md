@@ -1,0 +1,3 @@
+# Creating a Server That Sends and Receives Data Using the Flask Library
+
+This guide provides instructions on how to create a server using the Flask library, a lightweight and flexible web framework for Python. It covers the steps to set up a basic Flask application, handle GET and POST requests, and run the server. You'll learn how to create endpoints to send and receive data, and manage a simple API for your application.
